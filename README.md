@@ -1,21 +1,21 @@
 # EncoderModelsComparition
-Experimentation with Three Different NLP Models (Encoder Models Only)
+**Experimentation with Three Different NLP Models (Encoder Models Only)**
 
-Objective:
+**Objective:**
 
 The goal of this is to experiment with three different encoder-only NLP models, comparing their performances on the same dataset. You are not allowed to use models that are already fine-tuned on emotion datasets. The experiments will focus on data preparation, model fine-tuning, and performance evaluation to gain insights into the effectiveness of various encoder models for a specific NLP task.
 
-Dataset:
+**Dataset:**
 
 Use the dataset Tweet Emotion.
 
-Key Guidelines:
+**Key Guidelines:**
 
 •	Encoder-Only Models: You are restricted to using encoder models only and cannot use models already fine-tuned on emotion datasets.
 •	Performance Metrics: Use consistent evaluation metrics (see the in-class Kaggle Competition). 
 •	Accounting for Imbalance: Account for the imbalance to improve your results.
 
-Experiments:
+**Experiments:**
 
 Experiment 1: RoBERTa Base
 
