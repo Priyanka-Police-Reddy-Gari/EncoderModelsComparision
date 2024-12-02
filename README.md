@@ -101,5 +101,5 @@ The best overall performance should be shown by the larger and more potent FLAN-
 The project's particular needs, including the required level of performance, the computational resources available, and the need for a more powerful or efficient model, will determine which model is best. The experiments demonstrate the significance of rigorous data preprocessing, hyperparameter tuning, and model selection in obtaining the best outcomes for NLP tasks like tweet emotion detection, regardless of the selected model.
 Link to W&B Project: https://wandb.ai/prinku3005/run_name?nw=nwuserprinku3005
                                                                                
-                                                                                                                                                  PRIYANKA POLICE REDDY GARI
+                                                                           PRIYANKA POLICE REDDY GARI
 
