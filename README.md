@@ -18,9 +18,15 @@ Key Guidelines:
 Experiments:
 
 Experiment 1: RoBERTa Base
+
 •	Model: roberta-base
+
 Experiment 2: DistilBERT
+
 •	Model: distilbert-base-uncased
+
 Experiment 3: Similar-Sized Model
-•	Model: To Choose a model of similar size and architecture to DistilBERT, such as distilroberta-base or albert-base-v2. Ensure the selected model is comparable in size and complexity to distilbert.
+
+•	Model: To Choose a model of similar size and architecture to DistilBERT, such as distilroberta-base or albert-base-v2. To Ensure the selected model is comparable in size and complexity to distilbert.
+
 •	Here I chose FLAN-T5
