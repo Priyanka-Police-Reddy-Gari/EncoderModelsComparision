@@ -1,4 +1,4 @@
-# EncoderModelsComparition
+# EncoderModelsComparision
 **Experimentation with Three Different NLP Models (Encoder Models Only)**
 
 **Objective:**
